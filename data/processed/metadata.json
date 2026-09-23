@@ -1,0 +1,12 @@
+{
+    "file": "test_video.mp4",
+    "path": "data\\raw\\test_video.mp4",
+    "has_video": true,
+    "has_audio": true,
+    "duration_seconds": 299.96633333333335,
+    "duration": "00:04:59.97",
+    "fps": 29.97002997002997,
+    "frame_count": 8990,
+    "width": 640,
+    "height": 360
+}
